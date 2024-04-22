@@ -1,8 +1,8 @@
 # Hi there, I'm Junkai 👋
 
-## 🌱 About Me:
+## 🐳 About Me:
 
-I'm a software developer, passionate about coding and creating innovative solutions. I'm constantly learning new technologies and experimenting with them to develop cool projects.
+A software developer adept at crafting efficient solutions with a keen eye for detail. With a passion for innovation and a collaborative spirit, I thrive on turning ideas into reality through clean code and creative problem-solving.
 
 ## 📈 My GitHub Stats:
 
